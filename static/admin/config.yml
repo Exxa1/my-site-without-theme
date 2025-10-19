@@ -1,9 +1,8 @@
 backend:
-  name: github
-  repo: your-username/your-repo-name
-  branch: main
-  base_url: https://sveltia-cms-auth.aronkuna00.workers.dev/
-  # auth_endpoint: /auth
+   name: github
+   repo: Exxa1/my-site-without-theme
+   branch: main
+   base_url: https://sveltia-cms-auth.aronkuna00.workers.dev/
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
