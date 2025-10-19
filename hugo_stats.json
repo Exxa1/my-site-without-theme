@@ -1,0 +1,29 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "blockquote",
+      "body",
+      "em",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "li",
+      "meta",
+      "nav",
+      "p",
+      "script",
+      "strong",
+      "ul"
+    ],
+    "classes": [
+      "prose",
+      "text-xl"
+    ],
+    "ids": [
+      "h1",
+      "h2"
+    ]
+  }
+}

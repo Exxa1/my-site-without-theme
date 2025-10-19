@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+/*
+The following line is needed if huge_stats.json gets included in the gitignore file.
+*/
+@source "hugo_stats.json";
