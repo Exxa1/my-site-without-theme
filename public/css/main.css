@@ -579,9 +579,8 @@
   .block {
     display: block;
   }
-  .text-xl {
-    font-size: var(--text-xl);
-    line-height: var(--tw-leading, var(--text-xl--line-height));
+  .contents {
+    display: contents;
   }
   .italic {
     font-style: italic;
