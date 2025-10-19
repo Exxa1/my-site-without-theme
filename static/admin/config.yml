@@ -2,7 +2,7 @@ backend:
    name: github
    repo: Exxa1/my-site-without-theme
    branch: main
-   base_url: https://sveltia-cms-auth.aronkuna00.workers.dev/
+   base_url: https://sveltia-cms-auth.aronkuna00.workers.dev
    auth_endpoint: auth
 
 media_folder: "static/images/uploads"
